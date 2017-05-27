@@ -1,0 +1,999 @@
+{
+  "mdcolor_50": [
+    {
+      "name": "red_50",
+      "hexColor": "#fde0dc"
+    },
+    {
+      "name": "pink_50",
+      "hexColor": "#fce4ec"
+    },
+    {
+      "name": "purple_50",
+      "hexColor": "#f3e5f5"
+    },
+    {
+      "name": "deep_purple_50",
+      "hexColor": "#ede7f6"
+    },
+    {
+      "name": "indigo_50",
+      "hexColor": "#e8eaf6"
+    },
+    {
+      "name": "blue_50",
+      "hexColor": "#e7e9fd"
+    },
+    {
+      "name": "light_blue_50",
+      "hexColor": "#e1f5fe"
+    },
+    {
+      "name": "cyan_50",
+      "hexColor": "#e0f7fa"
+    },
+    {
+      "name": "teal_50",
+      "hexColor": "#e0f2f1"
+    },
+    {
+      "name": "green_50",
+      "hexColor": "#d0f8ce"
+    },
+    {
+      "name": "light_green_50",
+      "hexColor": "#f1f8e9"
+    },
+    {
+      "name": "lime_50",
+      "hexColor": "#f9fbe7"
+    },
+    {
+      "name": "yellow_50",
+      "hexColor": "#fffde7"
+    },
+    {
+      "name": "amber_50",
+      "hexColor": "#fff8e1"
+    },
+    {
+      "name": "orange_50",
+      "hexColor": "#fff3e0"
+    },
+    {
+      "name": "deep_orange_50",
+      "hexColor": "#fbe9e7"
+    },
+    {
+      "name": "brown_50",
+      "hexColor": "#efebe9"
+    },
+    {
+      "name": "grey_50",
+      "hexColor": "#fafafa"
+    },
+    {
+      "name": "blue_grey_50",
+      "hexColor": "#eceff1"
+    }
+  ],
+  "mdcolor_100":[
+    {
+      "name": "red_100",
+      "hexColor": "#f9bdbb"
+    },
+    {
+      "name": "pink_100",
+      "hexColor": "#f8bbd0"
+    },
+    {
+      "name": "purple_100",
+      "hexColor": "#e1bee7"
+    },
+    {
+      "name": "deep_purple_100",
+      "hexColor": "#d1c4e9"
+    },
+    {
+      "name": "indigo_100",
+      "hexColor": "#c5cae9"
+    },
+    {
+      "name": "blue_100",
+      "hexColor": "#d0d9ff"
+    },
+    {
+      "name": "light_blue_100",
+      "hexColor": "#b3e5fc"
+    },
+    {
+      "name": "cyan_100",
+      "hexColor": "#b2ebf2"
+    },
+    {
+      "name": "teal_100",
+      "hexColor": "#b2dfdb"
+    },
+    {
+      "name": "green_100",
+      "hexColor": "#a3e9a4"
+    },
+    {
+      "name": "light_green_100",
+      "hexColor": "#dcedc8"
+    },
+    {
+      "name": "lime_100",
+      "hexColor": "#f0f4c3"
+    },
+    {
+      "name": "yellow_100",
+      "hexColor": "#fff9c4"
+    },
+    {
+      "name": "amber_100",
+      "hexColor": "#ffecb3"
+    },
+    {
+      "name": "orange_100",
+      "hexColor": "#ffe0b2"
+    },
+    {
+      "name": "deep_orange_100",
+      "hexColor": "#ffccbc"
+    },
+    {
+      "name": "brown_100",
+      "hexColor": "#d7ccc8"
+    },
+    {
+      "name": "grey_100",
+      "hexColor": "#f5f5f5"
+    },
+    {
+      "name": "blue_grey_100",
+      "hexColor": "#cfd8dc"
+    }
+  ],
+  "mdcolor_200": [
+    {
+      "name": "red_200",
+      "hexColor": "#f69988"
+    },
+    {
+      "name": "pink_200",
+      "hexColor": "#f48fb1"
+    },
+    {
+      "name": "purple_200",
+      "hexColor": "#ce93d8"
+    },
+    {
+      "name": "deep_purple_200",
+      "hexColor": "#b39ddb"
+    },
+    {
+      "name": "indigo_200",
+      "hexColor": "#9fa8da"
+    },
+    {
+      "name": "blue_200",
+      "hexColor": "#afbfff"
+    },
+    {
+      "name": "light_blue_200",
+      "hexColor": "#81d4fa"
+    },
+    {
+      "name": "cyan_200",
+      "hexColor": "#80deea"
+    },
+    {
+      "name": "teal_200",
+      "hexColor": "#80cbc4"
+    },
+    {
+      "name": "green_200",
+      "hexColor": "#72d572"
+    },
+    {
+      "name": "light_green_200",
+      "hexColor": "#c5e1a5"
+    },
+    {
+      "name": "lime_200",
+      "hexColor": "#e6ee9c"
+    },
+    {
+      "name": "yellow_200",
+      "hexColor": "#fff59d"
+    },
+    {
+      "name": "orange_200",
+      "hexColor": "#ffcc80"
+    },
+    {
+      "name": "deep_orange_200",
+      "hexColor": "#ffab91"
+    },
+    {
+      "name": "brown_200",
+      "hexColor": "#bcaaa4"
+    },
+    {
+      "name": "grey_200",
+      "hexColor": "#eeeeee"
+    },
+    {
+      "name": "blue_grey_200",
+      "hexColor": "#b0bec5"
+    }
+  ],
+  "mdcolor_300": [
+    {
+      "name": "red_300",
+      "hexColor": "#f36c60"
+    },
+    {
+      "name": "pink_300",
+      "hexColor": "#f06292"
+    },
+    {
+      "name": "purple_300",
+      "hexColor": "#ba68c8"
+    },
+    {
+      "name": "deep_purple_300",
+      "hexColor": "#9575cd"
+    },
+    {
+      "name": "indigo_300",
+      "hexColor": "#7986cb"
+    },
+    {
+      "name": "blue_300",
+      "hexColor": "#91a7ff"
+    },
+    {
+      "name": "light_blue_300",
+      "hexColor": "#4fc3f7"
+    },
+    {
+      "name": "cyan_300",
+      "hexColor": "#4dd0e1"
+    },
+    {
+      "name": "teal_300",
+      "hexColor": "#4db6ac"
+    },
+    {
+      "name": "green_300",
+      "hexColor": "#42bd41"
+    },
+    {
+      "name": "light_green_300",
+      "hexColor": "#aed581"
+    },
+    {
+      "name": "lime_300",
+      "hexColor": "#dce775"
+    },
+    {
+      "name": "yellow_300",
+      "hexColor": "#fff176"
+    },
+    {
+      "name": "orange_300",
+      "hexColor": "#ffb74d"
+    },
+    {
+      "name": "deep_orange_300",
+      "hexColor": "#ff8a65"
+    },
+    {
+      "name": "brown_300",
+      "hexColor": "#a1887f"
+    },
+    {
+      "name": "grey_300",
+      "hexColor": "#e0e0e0"
+    },
+    {
+      "name": "blue_grey_300",
+      "hexColor": "#90a4ae"
+    }
+  ],
+  "mdcolor_400": [
+    {
+      "name": "red_400",
+      "hexColor": "#e84e40"
+    },
+    {
+      "name": "pink_400",
+      "hexColor": "#ec407a"
+    },
+    {
+      "name": "purple_400",
+      "hexColor": "#ab47bc"
+    },
+    {
+      "name": "deep_purple_400",
+      "hexColor": "#7e57c2"
+    },
+    {
+      "name": "indigo_400",
+      "hexColor": "#5c6bc0"
+    },
+    {
+      "name": "blue_400",
+      "hexColor": "#738ffe"
+    },
+    {
+      "name": "light_blue_400",
+      "hexColor": "#29b6f6"
+    },
+    {
+      "name": "cyan_400",
+      "hexColor": "#26c6da"
+    },
+    {
+      "name": "teal_400",
+      "hexColor": "#26a69a"
+    },
+    {
+      "name": "green_400",
+      "hexColor": "#2baf2b"
+    },
+    {
+      "name": "light_green_400",
+      "hexColor": "#9ccc65"
+    },
+    {
+      "name": "lime_400",
+      "hexColor": "#d4e157"
+    },
+    {
+      "name": "yellow_400",
+      "hexColor": "#ffee58"
+    },
+    {
+      "name": "orange_400",
+      "hexColor": "#ffa726"
+    },
+    {
+      "name": "deep_orange_400",
+      "hexColor": "#ff7043"
+    },
+    {
+      "name": "brown_400",
+      "hexColor": "#8d6e63"
+    },
+    {
+      "name": "grey_400",
+      "hexColor": "#bdbdbd"
+    },
+    {
+      "name": "blue_grey_400",
+      "hexColor": "#78909c"
+    }
+  ],
+  "mdcolor_500": [
+    {
+      "name": "red_500",
+      "hexColor": "#e51c23"
+    },
+    {
+      "name": "pink_500",
+      "hexColor": "#e91e63"
+    },
+    {
+      "name": "purple_500",
+      "hexColor": "#9c27b0"
+    },
+    {
+      "name": "deep_purple_500",
+      "hexColor": "#673ab7"
+    },
+    {
+      "name": "indigo_500",
+      "hexColor": "#3f51b5"
+    },
+    {
+      "name": "blue_500",
+      "hexColor": "#5677fc"
+    },
+    {
+      "name": "light_blue_500",
+      "hexColor": "#03a9f4"
+    },
+    {
+      "name": "cyan_500",
+      "hexColor": "#00bcd4"
+    },
+    {
+      "name": "teal_500",
+      "hexColor": "#009688"
+    },
+    {
+      "name": "green_500",
+      "hexColor": "#259b24"
+    },
+    {
+      "name": "light_green_500",
+      "hexColor": "#8bc34a"
+    },
+    {
+      "name": "lime_500",
+      "hexColor": "#cddc39"
+    },
+    {
+      "name": "yellow_500",
+      "hexColor": "#ffeb3b"
+    },
+    {
+      "name": "orange_500",
+      "hexColor": "#ff9800"
+    },
+    {
+      "name": "deep_orange_500",
+      "hexColor": "#ff5722"
+    },
+    {
+      "name": "brown_500",
+      "hexColor": "#795548"
+    },
+    {
+      "name": "grey_500",
+      "hexColor": "#9e9e9e"
+    },
+    {
+      "name": "blue_grey_500",
+      "hexColor": "#607d8b"
+    }
+  ],
+  "mdcolor_600": [
+    {
+      "name": "red_600",
+      "hexColor": "#dd191d"
+    },
+    {
+      "name": "pink_600",
+      "hexColor": "#d81b60"
+    },
+    {
+      "name": "purple_600",
+      "hexColor": "#8e24aa"
+    },
+    {
+      "name": "deep_purple_600",
+      "hexColor": "#5e35b1"
+    },
+    {
+      "name": "indigo_600",
+      "hexColor": "#3949ab"
+    },
+    {
+      "name": "blue_600",
+      "hexColor": "#4e6cef"
+    },
+    {
+      "name": "light_blue_600",
+      "hexColor": "#039be5"
+    },
+    {
+      "name": "cyan_600",
+      "hexColor": "#00acc1"
+    },
+    {
+      "name": "teal_600",
+      "hexColor": "#00897b"
+    },
+    {
+      "name": "green_600",
+      "hexColor": "#0a8f08"
+    },
+    {
+      "name": "light_green_600",
+      "hexColor": "#7cb342"
+    },
+    {
+      "name": "lime_600",
+      "hexColor": "#c0ca33"
+    },
+    {
+      "name": "yellow_600",
+      "hexColor": "#fdd835"
+    },
+    {
+      "name": "orange_600",
+      "hexColor": "#fb8c00"
+    },
+    {
+      "name": "deep_orange_600",
+      "hexColor": "#f4511e"
+    },
+    {
+      "name": "brown_600",
+      "hexColor": "#6d4c41"
+    },
+    {
+      "name": "grey_600",
+      "hexColor": "#757575"
+    },
+    {
+      "name": "blue_grey_600",
+      "hexColor": "#546e7a"
+    }
+  ],
+  "mdcolor_700": [
+    {
+      "name": "red_700",
+      "hexColor": "#d01716"
+    },
+    {
+      "name": "pink_700",
+      "hexColor": "#c2185b"
+    },
+    {
+      "name": "purple_700",
+      "hexColor": "#7b1fa2"
+    },
+    {
+      "name": "deep_purple_700",
+      "hexColor": "#512da8"
+    },
+    {
+      "name": "indigo_700",
+      "hexColor": "#303f9f"
+    },
+    {
+      "name": "blue_700",
+      "hexColor": "#455ede"
+    },
+    {
+      "name": "light_blue_700",
+      "hexColor": "#0288d1"
+    },
+    {
+      "name": "cyan_700",
+      "hexColor": "#0097a7"
+    },
+    {
+      "name": "teal_700",
+      "hexColor": "#00796b"
+    },
+    {
+      "name": "green_700",
+      "hexColor": "#0a7e07"
+    },
+    {
+      "name": "light_green_700",
+      "hexColor": "#689f38"
+    },
+    {
+      "name": "lime_700",
+      "hexColor": "#afb42b"
+    },
+    {
+      "name": "yellow_700",
+      "hexColor": "#fbc02d"
+    },
+    {
+      "name": "orange_700",
+      "hexColor": "#f57c00"
+    },
+    {
+      "name": "deep_orange_700",
+      "hexColor": "#e64a19"
+    },
+    {
+      "name": "brown_700",
+      "hexColor": "#5d4037"
+    },
+    {
+      "name": "grey_700",
+      "hexColor": "#616161"
+    },
+    {
+      "name": "blue_grey_700",
+      "hexColor": "#455a64"
+    }
+  ],
+  "mdcolor_800": [
+    {
+      "name": "red_800",
+      "hexColor": "#c41411"
+    },
+    {
+      "name": "pink_800",
+      "hexColor": "#ad1457"
+    },
+    {
+      "name": "purple_800",
+      "hexColor": "#6a1b9a"
+    },
+    {
+      "name": "deep_purple_800",
+      "hexColor": "#4527a0"
+    },
+    {
+      "name": "indigo_800",
+      "hexColor": "#283593"
+    },
+    {
+      "name": "blue_800",
+      "hexColor": "#3b50ce"
+    },
+    {
+      "name": "light_blue_800",
+      "hexColor": "#0277bd"
+    },
+    {
+      "name": "cyan_800",
+      "hexColor": "#00838f"
+    },
+    {
+      "name": "teal_800",
+      "hexColor": "#00695c"
+    },
+    {
+      "name": "green_800",
+      "hexColor": "#056f00"
+    },
+    {
+      "name": "light_green_800",
+      "hexColor": "#558b2f"
+    },
+    {
+      "name": "lime_800",
+      "hexColor": "#9e9d24"
+    },
+    {
+      "name": "yellow_800",
+      "hexColor": "#f9a825"
+    },
+    {
+      "name": "orange_800",
+      "hexColor": "#ef6c00"
+    },
+    {
+      "name": "deep_orange_800",
+      "hexColor": "#d84315"
+    },
+    {
+      "name": "brown_800",
+      "hexColor": "#4e342e"
+    },
+    {
+      "name": "grey_800",
+      "hexColor": "#424242"
+    },
+    {
+      "name": "blue_grey_800",
+      "hexColor": "#37474f"
+    }
+  ],
+  "mdcolor_900": [
+    {
+      "name": "red_900",
+      "hexColor": "#b0120a"
+    },
+    {
+      "name": "pink_900",
+      "hexColor": "#880e4f"
+    },
+    {
+      "name": "purple_900",
+      "hexColor": "#4a148c"
+    },
+    {
+      "name": "deep_purple_900",
+      "hexColor": "#311b92"
+    },
+    {
+      "name": "indigo_900",
+      "hexColor": "#1a237e"
+    },
+    {
+      "name": "blue_900",
+      "hexColor": "#2a36b1"
+    },
+    {
+      "name": "light_blue_900",
+      "hexColor": "#01579b"
+    },
+    {
+      "name": "cyan_900",
+      "hexColor": "#006064"
+    },
+    {
+      "name": "teal_900",
+      "hexColor": "#004d40"
+    },
+    {
+      "name": "green_900",
+      "hexColor": "#0d5302"
+    },
+    {
+      "name": "light_green_900",
+      "hexColor": "#33691e"
+    },
+    {
+      "name": "lime_900",
+      "hexColor": "#827717"
+    },
+    {
+      "name": "yellow_900",
+      "hexColor": "#f57f17"
+    },
+    {
+      "name": "orange_900",
+      "hexColor": "#e65100"
+    },
+    {
+      "name": "deep_orange_900",
+      "hexColor": "#bf360c"
+    },
+    {
+      "name": "brown_900",
+      "hexColor": "#3e2723"
+    },
+    {
+      "name": "grey_900",
+      "hexColor": "#212121"
+    },
+    {
+      "name": "blue_grey_900",
+      "hexColor": "#263238"
+    }
+  ],
+  "mdcolor_A100": [
+    {
+      "name": "red_A100",
+      "hexColor": "#ff7997"
+    },
+    {
+      "name": "pink_A100",
+      "hexColor": "#ff80ab"
+    },
+    {
+      "name": "purple_A100",
+      "hexColor": "#ea80fc"
+    },
+    {
+      "name": "deep_purple_A100",
+      "hexColor": "#b388ff"
+    },
+    {
+      "name": "indigo_A100",
+      "hexColor": "#8c9eff"
+    },
+    {
+      "name": "blue_A100",
+      "hexColor": "#a6baff"
+    },
+    {
+      "name": "light_blue_A100",
+      "hexColor": "#80d8ff"
+    },
+    {
+      "name": "cyan_A100",
+      "hexColor": "#84ffff"
+    },
+    {
+      "name": "teal_A100",
+      "hexColor": "#a7ffeb"
+    },
+    {
+      "name": "green_A100",
+      "hexColor": "#a2f78d"
+    },
+    {
+      "name": "light_green_A100",
+      "hexColor": "#ccff90"
+    },
+    {
+      "name": "lime_A100",
+      "hexColor": "#f4ff81"
+    },
+    {
+      "name": "yellow_A100",
+      "hexColor": "#ffff8d"
+    },
+    {
+      "name": "orange_A100",
+      "hexColor": "#ffd180"
+    },
+    {
+      "name": "deep_orange_A100",
+      "hexColor": "#ff9e80"
+    }
+  ],
+  "mdcolor_A200": [
+    {
+      "name": "red_A200",
+      "hexColor": "#ff5177"
+    },
+    {
+      "name": "pink_A200",
+      "hexColor": "#ff4081"
+    },
+    {
+      "name": "purple_A200",
+      "hexColor": "#e040fb"
+    },
+    {
+      "name": "deep_purple_A200",
+      "hexColor": "#7c4dff"
+    },
+    {
+      "name": "indigo_A200",
+      "hexColor": "#536dfe"
+    },
+    {
+      "name": "blue_A200",
+      "hexColor": "#6889ff"
+    },
+    {
+      "name": "light_blue_A200",
+      "hexColor": "#40c4ff"
+    },
+    {
+      "name": "cyan_A200",
+      "hexColor": "#18ffff"
+    },
+    {
+      "name": "teal_A200",
+      "hexColor": "#64ffda"
+    },
+    {
+      "name": "green_A200",
+      "hexColor": "#5af158"
+    },
+    {
+      "name": "light_green_A200",
+      "hexColor": "#b2ff59"
+    },
+    {
+      "name": "lime_A200",
+      "hexColor": "#eeff41"
+    },
+    {
+      "name": "yellow_A200",
+      "hexColor": "#ffff00"
+    },
+    {
+      "name": "orange_A200",
+      "hexColor": "#ffab40"
+    },
+    {
+      "name": "deep_orange_A200",
+      "hexColor": "#ff6e40"
+    }
+  ],
+  "mdcolor_A400": [
+    {
+      "name": "red_A400",
+      "hexColor": "#ff2d6f"
+    },
+    {
+      "name": "pink_A400",
+      "hexColor": "#f50057"
+    },
+    {
+      "name": "purple_A400",
+      "hexColor": "#d500f9"
+    },
+    {
+      "name": "deep_purple_A400",
+      "hexColor": "#651fff"
+    },
+    {
+      "name": "indigo_A400",
+      "hexColor": "#3d5afe"
+    },
+    {
+      "name": "blue_A400",
+      "hexColor": "#4d73ff"
+    },
+    {
+      "name": "light_blue_A400",
+      "hexColor": "#00b0ff"
+    },
+    {
+      "name": "cyan_A400",
+      "hexColor": "#00e5ff"
+    },
+    {
+      "name": "teal_A400",
+      "hexColor": "#1de9b6"
+    },
+    {
+      "name": "green_A400",
+      "hexColor": "#14e715"
+    },
+    {
+      "name": "light_green_A400",
+      "hexColor": "#76ff03"
+    },
+    {
+      "name": "lime_A400",
+      "hexColor": "#c6ff00"
+    },
+    {
+      "name": "yellow_A400",
+      "hexColor": "#ffea00"
+    },
+    {
+      "name": "orange_A400",
+      "hexColor": "#ff9100"
+    },
+    {
+      "name": "deep_orange_A400",
+      "hexColor": "#ff3d00"
+    }
+  ],
+  "mdcolor_A700": [
+    {
+      "name": "red_A700",
+      "hexColor": "#e00032"
+    },
+    {
+      "name": "pink_A700",
+      "hexColor": "#c51162"
+    },
+    {
+      "name": "purple_A700",
+      "hexColor": "#aa00ff"
+    },
+    {
+      "name": "deep_purple_A700",
+      "hexColor": "#6200ea"
+    },
+    {
+      "name": "indigo_A700",
+      "hexColor": "#304ffe"
+    },
+    {
+      "name": "blue_A700",
+      "hexColor": "#4d69ff"
+    },
+    {
+      "name": "light_blue_A700",
+      "hexColor": "#0091ea"
+    },
+    {
+      "name": "cyan_A700",
+      "hexColor": "#00b8d4"
+    },
+    {
+      "name": "teal_A700",
+      "hexColor": "#00bfa5"
+    },
+    {
+      "name": "green_A700",
+      "hexColor": "#12c700"
+    },
+    {
+      "name": "light_green_A700",
+      "hexColor": "#64dd17"
+    },
+    {
+      "name": "lime_A700",
+      "hexColor": "#aeea00"
+    },
+    {
+      "name": "yellow_A700",
+      "hexColor": "#ffd600"
+    },
+    {
+      "name": "orange_A700",
+      "hexColor": "#ff6d00"
+    },
+    {
+      "name": "deep_orange_A700",
+      "hexColor": "#dd2c00"
+    }
+  ]
+
+}

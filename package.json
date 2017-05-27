@@ -1,0 +1,21 @@
+{
+  "name": "char-avatar",
+  "version": "1.0.0",
+  "description": "A simple react native component to create a Avatar with Initials using material Design",
+  "main": "./CharAvatar.js",
+  "keywords": [
+    "char-avatar",
+    "component",
+    "avatar",
+    "profile-picture",
+    "material-design",
+    "react-native"
+  ],
+  "author": "Ashik Vetrivelu <vcashik@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "CharAvatar.js",
+    "colors.json",
+    "styles.js"
+  ]
+}
